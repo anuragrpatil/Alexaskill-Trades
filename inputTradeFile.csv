@@ -1,4 +1,4 @@
-Trader	Sales person	Sales Credit	Date	Client 	Tradeamount	Trade Reference number
-Anurag Patil	Shreya Pandey	100	07/21/2018	Gringotts	10000	12345
-Nishant Sharma	Aditi Mittal 	200	08/02/16	ABC bank	20000	12346
-Vipin Antil	Purnima	300	04/04/15	HFC Bank	30000	12347
+Trader,Sales person,Sales Credit,Date,Client ,Tradeamount,Trade Reference number,trade platorm
+Anurag Patil,Shreya Pandey,100,07/21/2018,Gringotts,10000,12345,abc
+Nishant Sharma,Aditi Mittal ,200,08/02/16,ABC bank,20000,12346,hjk
+Vipin Antil,Purnima,300,04/04/15,HFC Bank,30000,12347,lkj
